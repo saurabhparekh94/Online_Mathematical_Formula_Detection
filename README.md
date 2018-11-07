@@ -8,3 +8,4 @@ Classification - Given a set of Trace points the Prohect classifies these trace 
 Segmentation- From a given trace file the segmentation tries to identify individual trace points. 
 
 Parsing- Parsig tries to Identify if the given symbol isto the right, top, bottom, subscript, superscript of the previous symbol.
+
